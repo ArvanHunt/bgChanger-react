@@ -77,7 +77,7 @@ function App() {
 
               <button
               onClick={() => setColor("Lavender")}
-              className='outline-none px-4 py-1 rounded-full shadow-2xl' style={{backgroundColor: "Lavender"}}>
+              className='outline-none px-4 py-1 rounded-full shadow-2xl text-black' style={{backgroundColor: "Lavender"}}>
                 Lavender
               </button>
             </div>
